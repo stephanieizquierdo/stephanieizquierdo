@@ -1,4 +1,4 @@
-<img src="https://github.com/stephanieizquierdo/stephanieizquierdo/blob/main/bannerclouds.jpg"
+<img src="https://github.com/stephanieizquierdo/stephanieizquierdo/blob/main/cloudspurplebanner.png"
      alt="Hello there"
      style="float: center; margin-right: 10px;" />        
                                                                                            
