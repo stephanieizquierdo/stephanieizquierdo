@@ -1,6 +1,8 @@
 ### ✨Hi there✨ I'm Stephanie Izquierdo
 
-
+<img src="https://i.pinimg.com/564x/3e/5c/fc/3e5cfc4665e20dfc4baef1a063b1679f.jpg" alt="Hello there">
+                                                                                           
+                                                                                                   
 <details>
 <summary><b>Stats</b></summary>
 
