@@ -1,8 +1,8 @@
+<p align="center">
 <img src="https://github.com/stephanieizquierdo/stephanieizquierdo/blob/main/cloudspurplebanner.png"
      alt="Hello there"
-     style="float: center; margin-right: 10px;" />        
-                                                                                           
-                                                                                                   
+     style="float: center; margin-right: 10px;" />                                                                                         
+</p>                                                                                                   
 <details>
 <summary><b>Stats✨</b></summary>
 
