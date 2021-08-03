@@ -5,7 +5,12 @@
 </p>
 
 <p align="center">
-     <img src="https://github.com/stephanieizquierdo/stephanieizquierdo/blob/main/github-metrics.svg"
+  <b>  </b><a href="https://www.linkedin.com/in/stephanieizquierdo/">LinkedIn</a>
+  <b> | </b><a href="https://github.com/stephanieizquierdo/stephanieizquierdo/blob/main/CurriculumVitae.pdf">Curriculum Vitae</a>
+</p>
+
+<p align="center">
+     <img src="github-metrics.svg"
       alt="Metricas" />
 </p>  
 
