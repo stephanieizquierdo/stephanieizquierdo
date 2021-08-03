@@ -7,6 +7,7 @@
 <p align="center">
   <b>  </b><a href="https://www.linkedin.com/in/stephanieizquierdo/">LinkedIn</a>
   <b> | </b><a href="https://github.com/stephanieizquierdo/stephanieizquierdo/blob/main/CurriculumVitae.pdf">Curriculum Vitae</a>
+  <b> | </b><a href="https://soundcloud.com/user-830356511/viaje-8d-stephanie-izquierdo">Random</a>
 </p>
 
 <p align="center">
