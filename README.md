@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/stephanieizquierdo/stephanieizquierdo/blob/main/cloudspurplebanner.png"
+<img src="HelloWorldBanner.png"
      alt="Hello there"
      style="float: center; margin-right: 10px;" />                                                                                         
 </p>
