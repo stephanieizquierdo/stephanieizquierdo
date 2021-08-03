@@ -21,7 +21,7 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: America/Buenos_Aires
           plugin_languages: yes
-          plugin_languages_aliases: StringTemplate: Smalltalk
+          plugin_languages_aliases: "StringTemplate: Smalltalk"
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_recent_days: 14
