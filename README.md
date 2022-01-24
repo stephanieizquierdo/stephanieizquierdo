@@ -11,7 +11,29 @@
   <b> | </b><a href="https://github.com/stephanieizquierdo?tab=repositories&q=FIUBA&type=&language=&sort=">FIUBA</a>
 </p>
 
-<p align="center">
+**About me**
+
+- 💼 I am a software engineering student and I am a programming professor at the UBA.
+
+- ❤️ I love learning new things
+
+- 🌻 constantly growing
+
+- 💬 Ask me about anything [here](https://github.com/stephanieizquierdo/stephanieizquierdo/issues)
+
+
+<!--<p align="center">
      <img src="github-metrics.svg"
       alt="Metricas" />
-</p>  
+</p> -->
+<p align="center">  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanieizquierdo&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieizquierdo&langs_count=10&layout=compact&theme=radical" />
+</a>
+</p>
+
+
+Material [FIUBA](https://github.com/stephanieizquierdo?tab=repositories&q=FIUBA&type=&language=&sort=)
