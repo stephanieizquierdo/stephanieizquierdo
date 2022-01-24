@@ -17,7 +17,7 @@
 
 - ❤️ I love learning new things
 
-- 🌻 constantly growing
+- 🌻 Constantly growing
 
 - 💬 Ask me about anything [here](https://github.com/stephanieizquierdo/stephanieizquierdo/issues)
 
