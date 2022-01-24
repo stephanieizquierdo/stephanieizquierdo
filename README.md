@@ -13,11 +13,11 @@
 
 **About me**
 
-- 💼 I am a software engineering student and I am a programming professor at the University of Buenos Aires.
+- 💼 I am a software engineering student and a programming professor at the University of Buenos Aires.
 
-- ❤️ I love learning new things
+- ❤️ I love learning new stuffs.
 
-- 🌻 Constantly growing
+- 🌻 Constantly growing.
 
 - 💬 Ask me about anything [here](https://github.com/stephanieizquierdo/stephanieizquierdo/issues)
 
