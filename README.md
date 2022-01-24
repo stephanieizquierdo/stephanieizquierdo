@@ -13,7 +13,7 @@
 
 **About me**
 
-- 💼 I am a software engineering student and I am a programming professor at the UBA.
+- 💼 I am a software engineering student and I am a programming professor at the University of Buenos Aires.
 
 - ❤️ I love learning new things
 
