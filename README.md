@@ -11,39 +11,45 @@
 
 #### <a href="https://github.com/stephanieizquierdo?tab=repositories&q=FIUBA&type=&language=&sort=">Recopilacion material FIUBA</a>
 
-## Data Science 💻
-
 <details>
-<summary><b>Organización de Datos - FIUBA</b></summary>
+<summary><b>Data Science 💻</b></summary>
 
-Trabajo práctico: Machine learning - Modelos de predicción - Clasificación y Regresión - Métricas y Errores
+  <details>
+  <summary><b>Organización de Datos - FIUBA</b></summary>
 
-[TP - Machine learning](https://github.com/stephanieizquierdo/FIUBA-OrganizacionDeDatos-7506-/tree/main/Trabajo%20Practico%20N2)
+  Trabajo práctico: Machine learning - Modelos de predicción - Clasificación y Regresión - Métricas y Errores
 
-Análisis de Datos: Analsis y visualización de datos, ingeniería de features
+  [TP - Machine learning](https://github.com/stephanieizquierdo/FIUBA-OrganizacionDeDatos-7506-/tree/main/Trabajo%20Practico%20N2)
 
-[TP - Análisis de Datos](https://github.com/stephanieizquierdo/FIUBA-OrganizacionDeDatos-7506-/tree/main/Trabajo%20Practico%20N1)
+  Análisis de Datos: Analsis y visualización de datos, ingeniería de features
+
+  [TP - Análisis de Datos](https://github.com/stephanieizquierdo/FIUBA-OrganizacionDeDatos-7506-/tree/main/Trabajo%20Practico%20N1)
+  </details>
+
+  <details>
+  <summary><b>Data Science - Digital House</b></summary>
+
+  Caso de estudio Properati
+
+  [TP - Data Cleaning](https://github.com/stephanieizquierdo/DigitalHouse-DataScience/tree/main/TP1-DataCleaning-Properati)
+
+  [TP - Regresion Lineal](https://github.com/stephanieizquierdo/DigitalHouse-DataScience/tree/main/TP2-Predictor-Regresion-Lineal-Properati)
+
+  </details>
 </details>
 
 <details>
-<summary><b>Data Science - Digital House</b></summary>
-
-Caso de estudio Properati
-
-[TP - Data Cleaning](https://github.com/stephanieizquierdo/DigitalHouse-DataScience/tree/main/TP1-DataCleaning-Properati)
-
-[TP - Regresion Lineal](https://github.com/stephanieizquierdo/DigitalHouse-DataScience/tree/main/TP2-Predictor-Regresion-Lineal-Properati)
-
-</details>
-
-## Redes - Introducción a los sistemas distribuidos
+<summary><b>Redes - Introducción a los sistemas distribuidos</b></summary>
 - Realización de protocolo RDT sobre UDP y configuración de Openflow con firewalls (pyhton)
 - Resumenes mi autoría del libro Computer networking a top-down approach 7th edition
 
 [Repositorio Redes](https://github.com/stephanieizquierdo/FIUBA-Redes-IntroSistemasDistribuidos)
+</details>
 
 
-## Taller de Programación I
+<details>
+<summary><b>Taller de Programación I</b></summary>
+
 Remake de Wolfestein 3D multijugador (C++)
 
 [Wolfestein 3D Multijugador](https://github.com/stephanieizquierdo/Wolfestein-3D)
@@ -52,8 +58,30 @@ Trabajos individuales sobre Sockets y Threads. Cliente-Servidor. (C++). Resumene
 
 [Tps Individuales, resumenes y ejercicios](https://github.com/stephanieizquierdo/FIUBA-TallerDeProgramacionI)
 
+</details>
 
-## Sistemas Operativos
+<details>
+<summary><b>Sistemas Operativos</b></summary>
+
 Implementación de una Shell, un Scheduler y un FileSystem para un sistema operativo Unix-Like. (C y Assembly)
 
 [Repositorio Sistemas Operativos](https://github.com/stephanieizquierdo/FIUBA-SistemasOperativos)
+</details>
+
+<details>
+<summary><b>Algoritmos & Programación III 👾</b></summary>
+
+Programación orientada a objetos. (Java y Smalltalk) - Juego multijugador siguiendo los principios de POO con interfaz gráfica (Java)
+
+[Juego integrador - POO](https://github.com/stephanieizquierdo/FIUBA-AlgoritmosYProgramacion3-7507-/tree/master/KashootApp)
+
+[Tps individuales, final y parcial](https://github.com/stephanieizquierdo/FIUBA-AlgoritmosYProgramacion3-7507-/tree/master)
+</details>
+
+<details>
+<summary><b>Teoría de Algoritmos 🧩🧠</b></summary>
+Busqueda Exhaustiva - Problemas greedy - División y conquista - Teorema del maestro - Programación dinámica - Flujo en redes - Reducciones - Certificados - Problemas NP completos - Algoritmos randomizados - Algoritmos de aproximación - Análisis amortizado - Computabilidad.
+
+[Repositorio Trabajos TDA](https://github.com/stephanieizquierdo/teoriaDeAlgoritmos)
+</details>
+
