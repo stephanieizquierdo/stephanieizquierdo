@@ -13,8 +13,8 @@
 
 <details>
 <summary><b>Data Science 💻</b></summary>
-
-  <details>
+<ul>
+    <li><details>
   <summary><b>Organización de Datos - FIUBA</b></summary>
 
   Trabajo práctico: Machine learning - Modelos de predicción - Clasificación y Regresión - Métricas y Errores
@@ -25,7 +25,8 @@
 
   [TP - Análisis de Datos](https://github.com/stephanieizquierdo/FIUBA-OrganizacionDeDatos-7506-/tree/main/Trabajo%20Practico%20N1)
   </details>
-
+  </li>
+  <li>
   <details>
   <summary><b>Data Science - Digital House</b></summary>
 
@@ -36,7 +37,11 @@
   [TP - Regresion Lineal](https://github.com/stephanieizquierdo/DigitalHouse-DataScience/tree/main/TP2-Predictor-Regresion-Lineal-Properati)
 
   </details>
-</details>
+  </details>
+  </li>
+</ul>
+
+
 
 <details>
 <summary><b>Redes - Introducción a los sistemas distribuidos</b></summary>
