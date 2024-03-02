@@ -1,42 +1,59 @@
-<p align="center">
-<img src="HelloWorldBanner.png"
-     alt="Hello there"
-     style="float: center; margin-right: 10px;" />                                                                                         
-</p>
-
-<p align="center">
+<div align="center">
+  <h1>Stephanie Izquierdo Osorio</h1>
+  <h4>Advance oftware Engineer student at Universidad de Buenos Aires(FIUBA) 📚 </h4>
+</div>
+<p align="center">  
   <b>  </b><a href="https://www.linkedin.com/in/stephanieizquierdo/">LinkedIn</a>
   <b> | </b><a href="https://github.com/stephanieizquierdo/stephanieizquierdo/blob/main/CurriculumVitae.pdf">Curriculum Vitae</a>
   <b> | </b><a href="https://soundcloud.com/user-830356511/viaje-8d-stephanie-izquierdo">Random</a>
   <!-- <b> | </b><a href="https://stephanieizquierdo.github.io/portfolio/">portfolio en construccion</a> -->
 </p>
 
-#### About me
+#### <a href="https://github.com/stephanieizquierdo?tab=repositories&q=FIUBA&type=&language=&sort=">Recopilacion material FIUBA</a>
 
-- 💼 I am a software engineering student and a programming professor at the University of Buenos Aires.
-
-- ❤️ I love learning new stuffs.
-
-- 🌻 Constantly growing.
-
-- 💬 Ask me about anything [here](https://github.com/stephanieizquierdo/stephanieizquierdo/issues)
-
-
-<!--<p align="center">
-     <img src="github-metrics.svg"
-      alt="Metricas" />
-</p> -->
+## Data Science 💻
 
 <details>
-<summary><b>Stats</b></summary>
+<summary><b>Organización de Datos - FIUBA</b></summary>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanieizquierdo&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieizquierdo&langs_count=10&layout=compact&theme=radical" />
-</a>
+Trabajo práctico: Machine learning - Modelos de predicción - Clasificación y Regresión - Métricas y Errores
+
+[TP - Machine learning](https://github.com/stephanieizquierdo/FIUBA-OrganizacionDeDatos-7506-/tree/main/Trabajo%20Practico%20N2)
+
+Análisis de Datos: Analsis y visualización de datos, ingeniería de features
+
+[TP - Análisis de Datos](https://github.com/stephanieizquierdo/FIUBA-OrganizacionDeDatos-7506-/tree/main/Trabajo%20Practico%20N1)
+</details>
+
+<details>
+<summary><b>Data Science - Digital House</b></summary>
+
+Caso de estudio Properati
+
+[TP - Data Cleaning](https://github.com/stephanieizquierdo/DigitalHouse-DataScience/tree/main/TP1-DataCleaning-Properati)
+
+[TP - Regresion Lineal](https://github.com/stephanieizquierdo/DigitalHouse-DataScience/tree/main/TP2-Predictor-Regresion-Lineal-Properati)
 
 </details>
 
-#### <a href="https://github.com/stephanieizquierdo?tab=repositories&q=FIUBA&type=&language=&sort=">Recopilacion material FIUBA</a>
+## Redes - Introducción a los sistemas distribuidos
+- Realización de protocolo RDT sobre UDP y configuración de Openflow con firewalls (pyhton)
+- Resumenes mi autoría del libro Computer networking a top-down approach 7th edition
+
+[Repositorio Redes](https://github.com/stephanieizquierdo/FIUBA-Redes-IntroSistemasDistribuidos)
+
+
+## Taller de Programación I
+Remake de Wolfestein 3D multijugador (C++)
+
+[Wolfestein 3D Multijugador](https://github.com/stephanieizquierdo/Wolfestein-3D)
+
+Trabajos individuales sobre Sockets y Threads. Cliente-Servidor. (C++). Resumenes y Finales.
+
+[Tps Individuales, resumenes y ejercicios](https://github.com/stephanieizquierdo/FIUBA-TallerDeProgramacionI)
+
+
+## Sistemas Operativos
+Implementación de una Shell, un Scheduler y un FileSystem para un sistema operativo Unix-Like. (C y Assembly)
+
+[Repositorio Sistemas Operativos](https://github.com/stephanieizquierdo/FIUBA-SistemasOperativos)
