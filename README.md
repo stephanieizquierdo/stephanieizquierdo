@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Stephanie Izquierdo Osorio</h1>
-  <h4>Advance oftware Engineer student at Universidad de Buenos Aires(FIUBA) 📚 </h4>
+  <h4>Advance Software Engineer student at Universidad de Buenos Aires(FIUBA) 📚 </h4>
 </div>
 <p align="center">  
   <b>  </b><a href="https://www.linkedin.com/in/stephanieizquierdo/">LinkedIn</a>
